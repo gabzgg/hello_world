@@ -1,4 +1,4 @@
-# hello_world
-start from here
-this should merge and become the master version of the project
-some more changes 
+# hello_world \n
+start from here \n
+this should merge and become the master version of the project \n
+some more changes \n
